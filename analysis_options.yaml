@@ -1,0 +1,9 @@
+analyzer:
+  errors:
+    unused_import: ignore
+    dead_code: ignore
+
+linter:
+  rules:
+    avoid_print: false
+    camel_case_types: false
