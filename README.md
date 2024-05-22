@@ -15,10 +15,13 @@ A simple and intuitive Todos app built using Flutter. This app helps you keep tr
 ![Home Screen](screenshots/home_screen.png)
 
 ### Add Task
-![Add Task](screenshots/add_task.png)
+![Add Task](screenshots/add_screen.png)
 
-### Task Details
-![Task Details](screenshots/task_details.png)
+### Update Task
+![Task Details](screenshots/update_screen.png)
+
+### Delete Task
+![Task Details](screenshots/delete_screen.png)
 
 ## Getting Started
 
